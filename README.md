@@ -8,3 +8,6 @@ Watch tutorial on YouTube.
 
 HELLO
 
+## Local Development
+
+1. Open index.html in your browser!
